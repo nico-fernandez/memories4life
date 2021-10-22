@@ -4,7 +4,7 @@
 
 body {
 	font-size: 14px;
-	background-color: #000;
+	background-color: #fff;
 	font-family: Verdana, sans-serif;
 	height: 100%;
 }
