@@ -14,16 +14,16 @@ $de = array(
     'add:album' => 'Album hinzufügen',
     'photo:select' => 'Wähle ein Foto aus',
     'no:albums' => 'Keine Alben',
-    'no:photos' => 'Keine Fotos',
+    'no:photos' => 'Keine Imagenes',
     'back:to:album' => 'Zurück zum Album',
     'photo:albums' => 'Foto Alben',
 	
     'photo:deleted:success' => 'Profil-Foto erfolgreich gelöscht',
     'photo:delete:error' => 'Das Foto kann nicht gelöscht werden',
 	
-    'photos' => 'Fotos',
+    'photos' => 'Imagenes',
     'back' => 'Zurück',
-    'add:photos' => 'Fotos hinzufügen',
+    'add:photos' => 'Imagenes hinzufügen',
     'delete:photo' => 'Foto löschen',
 	
     'covers' => 'Titelbilder',

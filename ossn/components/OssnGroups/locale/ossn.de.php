@@ -51,7 +51,7 @@ $de = array(
     'decline' => 'Ablehnen',
     'search:groups' => 'Gruppen',
 
-    'close:group:notice' => 'Werde Mitglied dieser Gruppe, wenn Du Fotos und Kommentare posten möchtest.',
+    'close:group:notice' => 'Werde Mitglied dieser Gruppe, wenn Du Imagenes und Kommentare posten möchtest.',
     'closed:group' => 'Geschlossene Gruppe',
     'group:admin' => 'Admin',
 

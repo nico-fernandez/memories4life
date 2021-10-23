@@ -16,14 +16,14 @@ $pt = array(
     'no:albums' => 'Nenhum álbum',
     'no:photos' => 'Nenhuma foto',
     'back:to:album' => 'Voltar para o álbum',
-    'photo:albums' => 'Fotos do álbum',
+    'photo:albums' => 'Imagenes do álbum',
 	
     'photo:deleted:success' => 'Foto deletada com sucesso!',
     'photo:delete:error' => 'Não foi possível deletar a foto! Tente novamente mais tarde.',
 	
-    'photos' => 'Fotos',
+    'photos' => 'Imagenes',
     'back' => 'Voltar',
-    'add:photos' => 'Adicionar fotos',
+    'add:photos' => 'Adicionar Imagenes',
     'delete:photo' => 'Deletar foto',
 	
     'covers' => 'Capas',
@@ -31,8 +31,8 @@ $pt = array(
     'profile:covers' => 'Capas de perfil',
 	'delete:album' => 'Deletar álbum',
 	
-	'photo:album:deleted' => 'Álbum de fotos excluído com sucesso',
-	'photo:album:delete:error' => 'Não foi possível excluir o álbum de fotos',
+	'photo:album:deleted' => 'Álbum de Imagenes excluído com sucesso',
+	'photo:album:delete:error' => 'Não foi possível excluir o álbum de Imagenes',
 	
 
 );

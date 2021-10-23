@@ -51,7 +51,7 @@ $pt = array(
     'decline' => 'Rejeitar',
     'search:groups' => 'Buscar Círculos',
 
-    'close:group:notice' => 'Entre no grupo para ver as postagens, fotos e comentários.',
+    'close:group:notice' => 'Entre no grupo para ver as postagens, Imagenes e comentários.',
     'closed:group' => 'Grupo fechado',
     'group:admin' => 'Administrador',
 	

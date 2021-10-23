@@ -53,11 +53,11 @@ $es = array(
     'decline' => 'Negar',
     'search:groups' => 'Buscar Círculos',
 
-    'close:group:notice' => 'Únete a este círculo para ver las publicaciones, las fotos y los comentarios.',
+    'close:group:notice' => 'Únete a este círculo para ver las publicaciones, las Imagenes y los comentarios.',
     'closed:group' => 'Círculo cerrado',
     'group:admin' => 'Administración',
 	
-	'title:access:private:group' => 'Mensaje del círculo',
+	'title:access:private:group' => 'Recado del círculo',
 
 	// #186 group join request message var1 = user, var2 = name of group
 	'ossn:notifications:group:joinrequest' => '%s ha solicitado unirse a %s',

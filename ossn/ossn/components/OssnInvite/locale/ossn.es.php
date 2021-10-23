@@ -13,13 +13,13 @@
 $es = array(
 	'com:ossn:invite' => 'Invitar',			
 	'com:ossn:invite:friends' => 'Invitar Amigos',
-	'com:ossn:invite:friends:note' => 'Para invitar amigos a unirse a usted en esta red, ingrese sus direcciones de correo electrónico y un breve mensaje. Recibirán un correo electrónico con su invitación.',
+	'com:ossn:invite:friends:note' => 'Para invitar amigos a unirse a usted en esta red, ingrese sus direcciones de correo electrónico y un breve Recado. Recibirán un correo electrónico con su invitación.',
 	'com:ossn:invite:emails:note' => 'Direcciones de correo electrónico (separadas por una coma)',
 	'com:ossn:invite:emails:placeholder' => 'yaneth@example.com, edward@example.com',
-	'com:ossn:invite:message' => 'Mensaje',
+	'com:ossn:invite:message' => 'Recado',
 		
     	'com:ossn:invite:mail:subject' => 'Invitación a unirse a %s',	
-    	'com:ossn:invite:mail:message' => 'Has sido invitado a unirte %s por %s. Incluyeron el siguiente mensaje:
+    	'com:ossn:invite:mail:message' => 'Has sido invitado a unirte %s por %s. Incluyeron el siguiente Recado:
 
 %s
 

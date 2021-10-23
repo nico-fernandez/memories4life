@@ -14,7 +14,7 @@ $de = array(
     'site:index' => 'Willkommen bei',
     'news:feed' => 'Neuigkeiten',
     'new:feed' => 'Neuigkeiten',
-    'photos:ossn' => 'Fotos',
+    'photos:ossn' => 'Imagenes',
     'admin:view:site' => 'Seiten-Ansicht',
 
     'home:top:heading' => "Willkommen bei %s!<br>Egal, ob Du neue Freunde oder alte Bekannte suchst: Hier bist Du richtig.",
@@ -93,7 +93,7 @@ $de = array(
     'default:lang' => 'Standard Sprache',
 
     'timeline' => 'Chronik',
-    'photos' => 'Fotos',
+    'photos' => 'Imagenes',
     'friends' => 'Freunde',
     'links' => 'Links',
     'ossn:add:user:mail:subject' => "%s, bitte bestätige Deine Email-Adresse bei %s!",

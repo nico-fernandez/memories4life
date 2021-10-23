@@ -23,9 +23,9 @@ $nl = array(
     'photo:deleted:success' => 'Foto successvol verwijderd!',
     'photo:delete:error' => 'Kan foto niet verwijderen! Probeer het later nog eens.',
 	
-    'photos' => 'Fotos',
+    'photos' => 'Imagenes',
     'back' => 'Terug',
-    'add:photos' => 'Fotos toevoegen',
+    'add:photos' => 'Imagenes toevoegen',
     'delete:photo' => 'Foto verwijderen',
 	
     'covers' => 'Covers',

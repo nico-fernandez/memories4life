@@ -14,12 +14,12 @@
 $es = array(
 	'home' => 'Inicio',
 	'site:index' => 'Bienvenido',
-	'news:feed' => 'Noticias',
+	'news:feed' => 'Primicias',
 	'new:feed' => 'Noticia',
-	'photos:ossn' => 'Fotos',
+	'photos:ossn' => 'Imagenes',
 	'admin:view:site' => 'Ver Sitio',
 	
-	'home:top:heading' => "¡Bienvenido a %s! Regístrate para hacer nuevos amigos, crear Círculos, añadir fotos, y mucho más.",
+	'home:top:heading' => "¡Bienvenido a %s! Regístrate para hacer nuevos amigos, crear Círculos, añadir Imagenes, y mucho más.",
 	'create:account' => 'Crear una cuenta',
 	'its:free' => "Es gratis y siempre lo será.",
 	
@@ -95,9 +95,9 @@ $es = array(
 	'default:lang' => 'Idioma predeterminado',
 	
 	'timeline' => 'Línea de tiempo',
-	'photos' => 'Fotos',
+	'photos' => 'Imagenes',
 	'friends' => 'Amigos',
-	'links' => 'Enlaces',
+	'links' => 'Acciones',
 	'ossn:add:user:mail:subject' => "%s por favor confirme su dirección de correo electrónico para %s!",
 	'ossn:add:user:mail:body' => "Antes de empezar a usar %s, debe confirmar su dirección de correo electrónico.
 

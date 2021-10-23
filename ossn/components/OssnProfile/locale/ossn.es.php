@@ -14,7 +14,7 @@ $es = array(
 		'change:cover' => 'Cambiar Portada',
 		'change:photo' => 'Cambiar Foto',
 		'update:info' => 'Actualizar Información',
-		'message' => 'Mensaje',
+		'message' => 'Recado',
 		'save:position' => 'Guardar Posición',
 		'ossn:profile:picture:updated' => 'Imagen de perfil cambiada.',
 		'ossn:profile:cover:picture:updated' => 'Portada de perfil cambiada.',
@@ -22,7 +22,7 @@ $es = array(
 		
 		'edit:profile' => 'Editar Perfil',
 		'reposition:cover' => 'Reposicionar',
-		'profile:photos' => 'Fotos de Perfil',
+		'profile:photos' => 'Imagenes de Perfil',
 		
 		'profile:cover:err1' => 'Imagen de portada demasiado pequeña',
 		'profile:cover:err1:detail' => 'La imagen de portada debe tener al menos 1040 x 300 o más.'

@@ -20,7 +20,7 @@ $pt = array(
 		
 		'edit:profile' => 'Editar Perfil',
 		'reposition:cover' => 'Reposicionar',
-		'profile:photos' => 'Fotos de perfil',
+		'profile:photos' => 'Imagenes de perfil',
 		
 		'profile:cover:err1' => 'Foto da capa muito pequena',
 		'profile:cover:err1:detail' => 'A foto da capa deve ser de, pelo menos, 1040px por 300px ou superior.'

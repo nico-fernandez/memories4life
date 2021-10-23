@@ -14,10 +14,10 @@ $pt = array(
 	'site:index' => 'Bem Vindo!',
 	'news:feed' => 'Últimas Notícias',
 	'new:feed' => 'Últimas Notícias',
-	'photos:ossn' => 'Fotos',
+	'photos:ossn' => 'Imagenes',
 	'admin:view:site' => 'Ver site',
 	
-	'home:top:heading' => "Bem vindo a %s! Cadastre-se agora mesmo para fazer amigos, criar Círculos, adicionar fotos, e muito mais!.",
+	'home:top:heading' => "Bem vindo a %s! Cadastre-se agora mesmo para fazer amigos, criar Círculos, adicionar Imagenes, e muito mais!.",
 	'create:account' => 'Criar uma conta',
 	'its:free' => "É grátis e sempre será.",
 	
@@ -93,7 +93,7 @@ $pt = array(
 	'default:lang' => 'Idioma padrão',
 	
 	'timeline' => 'Linha do tempo',
-	'photos' => 'Fotos',
+	'photos' => 'Imagenes',
 	'friends' => 'Amigos',
 	'links' => 'Links',
 	'ossn:add:user:mail:subject' => "%s por favor confirme seu endereço de e-mail para %s!",

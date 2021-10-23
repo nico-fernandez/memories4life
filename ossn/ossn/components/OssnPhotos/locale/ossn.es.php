@@ -16,16 +16,16 @@ $es = array(
     'add:album' => 'Añadir Álbum',
     'photo:select' => 'Seleccionar Foto',
     'no:albums' => 'Sin Álbumes',
-    'no:photos' => 'Sin Fotos',
+    'no:photos' => 'Sin Imagenes',
     'back:to:album' => 'Volver al Álbum',
-    'photo:albums' => 'Álbumes de Fotos',
+    'photo:albums' => 'Álbumes de Imagenes',
 	
     'photo:deleted:success' => '¡La foto se ha eliminado correctamente!',
     'photo:delete:error' => '¡No se puede eliminar la foto! Por favor, inténtelo de nuevo más tarde.',
 	
-    'photos' => 'Fotos',
+    'photos' => 'Imagenes',
     'back' => 'Atrás',
-    'add:photos' => 'Agregar fotos',
+    'add:photos' => 'Agregar Imagenes',
     'delete:photo' => 'Borrar foto',
 	
     'covers' => 'Portadas',
@@ -33,8 +33,8 @@ $es = array(
     'profile:covers' => 'Portadas de Perfil',
 	'delete:album' => 'Eliminar Álbum',
 	
-	'photo:album:deleted' => 'Álbum de fotos eliminado correctamente',
-	'photo:album:delete:error' => 'No se puede eliminar el álbum de fotos',
+	'photo:album:deleted' => 'Álbum de Imagenes eliminado correctamente',
+	'photo:album:delete:error' => 'No se puede eliminar el álbum de Imagenes',
 	
 
 );
