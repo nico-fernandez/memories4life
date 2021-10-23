@@ -4,7 +4,7 @@
 
 body {
 	font-size: 14px;
-	background-color: #eaeaea;
+	background-color: #c0c0c0;
 	font-family: 'PT Sans', sans-serif;
 	height: 100%;
 }
@@ -18,7 +18,7 @@ body {
 }
 
 ::-webkit-scrollbar-track {
-	background-color: #eaeaea;
+	background-color: #808080;
 	border-left: 1px solid #ccc;
 }
 
@@ -324,7 +324,7 @@ a {
 ********************************/
 
 .topbar {
-	background: #dedede;
+	background: #2f4f4f;
 	color: #fff;
 	z-index: 1;
 	position: relative;
@@ -373,7 +373,7 @@ a {
 .topbar-menu-right li:hover,
 .topbar-menu-left li:hover {
 	cursor: pointer;
-	background-color: #0a6586;
+	background-color: #008080;
 }
 
 .topbar .right-side-nospace .topbar-menu-right {
@@ -395,7 +395,7 @@ a {
 .topbar .ossn-icons-topbar-friends,
 .topbar .ossn-icons-topbar-messages,
 .topbar .ossn-icons-topbar-notification i {
-	color: #0f3b4a;
+	color: #ffffff;
 }
 
 .topbar .ossn-icons-topbar-friends-new,
@@ -522,7 +522,7 @@ a {
 }
 
 .ossn-wall-container .controls {
-	background-color: #F6F7F8;
+	background-color: #Ffffff;
 	margin-top: 5px;
 	border: 1px solid #E9EAED;
 	padding: 5px 10px;
