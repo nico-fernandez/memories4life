@@ -19,7 +19,7 @@ $es = array(
 	'photos:ossn' => 'Fotos',
 	'admin:view:site' => 'Ver Sitio',
 	
-	'home:top:heading' => "¡Bienvenido a %s! Regístrate para hacer nuevos amigos, crear grupos, añadir fotos, y mucho más.",
+	'home:top:heading' => "¡Bienvenido a %s! Regístrate para hacer nuevos amigos, crear Círculos, añadir fotos, y mucho más.",
 	'create:account' => 'Crear una cuenta',
 	'its:free' => "Es gratis y siempre lo será.",
 	

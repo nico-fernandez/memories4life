@@ -9,7 +9,7 @@
  * @link      http://www.opensource-socialnetwork.org/licence
  */
 $pt = array(
-    'groups' => 'Grupos',
+    'groups' => 'Círculos',
     'add:group' => 'Adicionar grupo',
     'requests' => 'Solicitações',
 
@@ -49,7 +49,7 @@ $pt = array(
     'no:requests' => 'Nenhuma solicitação',
     'approve' => 'Aprovar',
     'decline' => 'Rejeitar',
-    'search:groups' => 'Buscar grupos',
+    'search:groups' => 'Buscar Círculos',
 
     'close:group:notice' => 'Entre no grupo para ver as postagens, fotos e comentários.',
     'closed:group' => 'Grupo fechado',

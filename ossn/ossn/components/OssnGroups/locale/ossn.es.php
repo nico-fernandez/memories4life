@@ -11,8 +11,8 @@
  * @link      https://www.opensource-socialnetwork.org/
  */
 $es = array(
-    'groups' => 'Grupos',
-    'add:group' => 'Agregar Grupo',
+    'groups' => 'Círculos',
+    'add:group' => 'Agregar Círculo',
     'requests' => 'Solicitudes',
 
     'members' => 'Miembros',
@@ -51,7 +51,7 @@ $es = array(
     'no:requests' => 'No hay Solicitudes',
     'approve' => 'Aprobar',
     'decline' => 'Negar',
-    'search:groups' => 'Buscar Grupos',
+    'search:groups' => 'Buscar Círculos',
 
     'close:group:notice' => 'Únete a este grupo para ver las publicaciones, las fotos y los comentarios.',
     'closed:group' => 'Grupo cerrado',

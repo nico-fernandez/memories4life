@@ -15,7 +15,7 @@ $es = array(
 	'ossn:search' => 'Buscar',
 	'result:type' => 'TIPO DE RESULTADO',
 	'search:result' => 'Buscar resultados para %s',
-	'ossn:search:topbar:search' => 'Busca grupos, amigos y más.',
+	'ossn:search:topbar:search' => 'Busca Círculos, amigos y más.',
 	'ossn:search:no:result' => '¡No se han encontrado resultados!',
 );
 ossn_register_languages('es', $es); 

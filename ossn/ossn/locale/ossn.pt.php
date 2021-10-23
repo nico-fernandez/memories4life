@@ -17,7 +17,7 @@ $pt = array(
 	'photos:ossn' => 'Fotos',
 	'admin:view:site' => 'Ver site',
 	
-	'home:top:heading' => "Bem vindo a %s! Cadastre-se agora mesmo para fazer amigos, criar grupos, adicionar fotos, e muito mais!.",
+	'home:top:heading' => "Bem vindo a %s! Cadastre-se agora mesmo para fazer amigos, criar Círculos, adicionar fotos, e muito mais!.",
 	'create:account' => 'Criar uma conta',
 	'its:free' => "É grátis e sempre será.",
 	
