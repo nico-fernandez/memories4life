@@ -889,7 +889,7 @@ a {
 }
 
 .sidebar a {
-	color: #fff;
+	color: blue;
 }
 
 .sidebar-close {
