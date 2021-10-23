@@ -523,7 +523,7 @@ a {
 }
 
 .ossn-wall-container .controls {
-	background-color: #F6F7F8;
+	background-color: #fd7e14;
 	margin-top: 5px;
 	border: 1px solid #E9EAED;
 	padding: 5px 10px;
